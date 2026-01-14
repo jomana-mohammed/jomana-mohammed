@@ -60,7 +60,7 @@ I am actively seeking:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jomana-mohammed&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![ Turning ideas into reality, one commit at a time.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
