@@ -1,7 +1,7 @@
-# Jomana Mohammed
+# 👋 Hi I'm Jomana
 Full Stack Developer | React • Node.js • TypeScript • Modern Web Solutions
 
-## 👋 About Me
+## About Me
 I am a full-stack developer specializing in building modern, scalable web applications with a focus on clean code, user experience, and performance optimization. My work centers on creating efficient solutions using cutting-edge technologies—combining powerful frontend frameworks, robust backend systems, and seamless database integration to deliver meaningful digital experiences.
 
 I value continuous learning, collaborative development, and engineering best practices that translate into real-world impact.
@@ -53,11 +53,6 @@ I am actively seeking:
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomana-mohammed) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jomanamohammed816@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://jomana-mohammed-portfolio.netlify.app/)
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jomana-mohammed&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jomana-mohammed&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jomana-mohammed&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## ⭐Turning ideas into reality, one commit at a time.
